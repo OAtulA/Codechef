@@ -2,7 +2,7 @@ package Codechef.Languages.Java.Input_output;
 
 import java.util.Scanner;
 
-public class multiLineInput {
+public class MultiLineInput {
     public static void main(String[] args) {
         Scanner read = new Scanner(System.in);
         /*
@@ -23,4 +23,5 @@ public class multiLineInput {
         int E = read.nextInt();
         System.out.print(A + " " + B + " " + C + " " + D + " " + E);
     }
+
 }
