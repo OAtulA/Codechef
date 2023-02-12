@@ -1,4 +1,4 @@
-package Codechef.Languages.Java;
+package Codechef.Languages.Java.Input_output;
 
 import java.util.Scanner;
 
