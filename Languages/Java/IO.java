@@ -1,4 +1,5 @@
-// Update the blanks in the code below
+package Codechef.Languages.Java;
+
 import java.util.Scanner;
 
 class IO
